@@ -10,7 +10,6 @@ PyPDF2
 transformers
 torch
 pdfplumber
-pytorch
 Pillow
 pytesseract
 requests
