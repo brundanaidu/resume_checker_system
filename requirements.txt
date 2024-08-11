@@ -16,3 +16,4 @@ pytesseract
 requests
 datetime
 huggingface
+thinc==8.1.0
