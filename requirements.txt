@@ -1,5 +1,5 @@
 streamlit>=1.22.0,<2.0.0
-pandas>=1.5.3,<2.0.0
+
 PyMuPDF>=1.20.0,<2.0.0
 python-docx>=0.8.11,<1.0.0
 openpyxl>=3.1.2,<4.0.0
